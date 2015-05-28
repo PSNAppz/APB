@@ -1,0 +1,4 @@
+language: csharp
+solution: Advance Webbrowser.sln
+script :
+  - grep "Test Results" build.log
