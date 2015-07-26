@@ -1,4 +1,4 @@
 language: csharp
 solution: Advance Webbrowser.sln
 script:
-  - xbuild /p:VbcToolExe=vbnc.exe dvance Webbrowser.sln
+  - xbuild /p:VbcToolExe=vbnc.exe Advance Webbrowser.sln
